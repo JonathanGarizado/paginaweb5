@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-registro{
+    width: 400px;
+    background: #1e70bd;
+    padding: 30px;
+    margin: auto;
+    margin: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+body{
+    background-image: url('http://itectehuacan.edu.mx/TutoriasFinalSistema/Imagenes/backgrounds/1.jpg');
+}
+
+.form-registro h4{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.control{
+    color: white;
+    width: 100%;
+    background: #0d2146da;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+.form-registro p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.form-registro .boton{
+    width: 40%;
+    font-size: 20px;
+    background: #327abe;
+    color: white;
+    padding: 10px;
+    margin: 16px;
+}
+
+.form-registro a{
+    color: white;
+    text-decoration: none;
+}
+
+.form-registro a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.form-registro b{
+    color: black;
+}
